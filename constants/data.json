@@ -1,0 +1,137 @@
+[
+{
+    "_id": "641253da096c4ebbc924a9e7",
+    "first_name": "Javier",
+    "last_name": "Rodriguez",
+    "email": "javier.rodriguez@gmail.com",
+    "phone": "+34-655-123456",
+    "address": "Gran Via 1, Madrid, Spain",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/men/5.jpg",
+    "user": "1"
+},
+{
+    "_id": "641253f4096c4ebbc924a9e8",
+    "first_name": "Ling",
+    "last_name": "Li",
+    "email": "ling.li@gmail.com",
+    "phone": "+86-13812345678",
+    "address": "123 Nanjing Road, Shanghai, China",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/women/4.jpg",
+    "user": "1"
+},
+{
+    "_id": "6412540d096c4ebbc924a9e9",
+    "first_name": "Hans",
+    "last_name": "Mueller",
+    "email": "hans.mueller@gmail.com",
+    "phone": "+49-152-12345678",
+    "address": "Am Kaiserkai 1, Hamburg, Germany",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/men/3.jpg",
+    "user": "1"
+},
+{
+    "_id": "6412541b096c4ebbc924a9ea",
+    "first_name": "Juan",
+    "last_name": "Gonzalez",
+    "email": "juan.gonzalez@gmail.com",
+    "phone": "+1-123-456-7890",
+    "address": "123 Main Street, Anytown, USA",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg",
+    "user": "1"
+},
+{
+    "_id": "6412542a096c4ebbc924a9eb",
+    "first_name": "Sophie",
+    "last_name": "Dubois",
+    "email": "sophie.dubois@gmail.com",
+    "phone": "+33-6-12345678",
+    "address": "1 Rue de la Paix, Paris, France",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/women/2.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125ea104a19c5cd0f62bf9",
+    "first_name": "Olivia",
+    "last_name": "Taylor",
+    "email": "olivia.taylor@gmail.com",
+    "phone": "+44-789-1234567",
+    "address": "10 Downing Street, London, UK",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/women/6.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125ecf04a19c5cd0f62bfa",
+    "first_name": "Alexandre",
+    "last_name": "Dubois",
+    "email": "alexandre.dubois@gmail.com",
+    "phone": "+33-6-12345679",
+    "address": "1 Avenue des Champs-Élysées, Paris, France",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/men/7.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125f1304a19c5cd0f62bfb",
+    "first_name": "Emma",
+    "last_name": "Davis",
+    "email": "emma.davis@gmail.com",
+    "phone": "+1-202-555-0192",
+    "address": "745 5th Ave, New York, NY 10151, United States",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/women/4.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125f1904a19c5cd0f62bfc",
+    "first_name": "Liam",
+    "last_name": "Miller",
+    "email": "liam.miller@gmail.com",
+    "phone": "+44 7911 123456",
+    "address": "10 Downing Street, London SW1A 2AA, United Kingdom",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/men/8.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125f2904a19c5cd0f62bfd",
+    "first_name": "Sophie",
+    "last_name": "Garcia",
+    "email": "sophie.garcia@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "address": "Eiffel Tower, Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/women/9.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125f3604a19c5cd0f62bfe",
+    "first_name": "Hiroto",
+    "last_name": "Tanaka",
+    "email": "hiroto.tanaka@gmail.com",
+    "phone": "+81 3-1234-5678",
+    "address": "Tokyo Tower, 4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011, Japan",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/men/20.jpg",
+    "user": "1"
+},
+{
+    "_id": "64125f4704a19c5cd0f62bff",
+    "first_name": "Amelia",
+    "last_name": "Rodriguez",
+    "email": "amelia.rodriguez@gmail.com",
+    "phone": "+54 9 11 2345-6789",
+    "address": "Obelisco de Buenos Aires, Plaza de la República S/N, Buenos Aires, Argentina",
+    "status": "Active",
+    "photo": "https://randomuser.me/api/portraits/thumb/women/29.jpg",
+    "user": "1"
+}
+]
+
+
+
