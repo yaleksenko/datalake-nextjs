@@ -44,10 +44,13 @@ npm install
 Create a .env file in the root of the project and add the following environment variables
 
 ```
-MONGODB_URI=your-mongodb-uri
-MONGODB_DB=your-mongodb-db
-NEXT_PUBLIC_BASE_URL=http
+MONGODB_URI="your-mongodb-uri"
+MONGODB_DB="your-mongodb-db"
+NEXT_PUBLIC_BASE_URL="https://your-next-public-base-url.com"
 ```
+
+// If not working with env on a server, write url directly
+const NEXT_PUBLIC_BASE_URL = "https://your-next-public-base-url.com";
 
 4. Start the application:
 
