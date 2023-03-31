@@ -30,7 +30,7 @@ https://db.deeplogic.dev/
 1. Clone the repository:
 
 ```
-git clone https://github.com/yaleksenko/datalake-nextjs-mongodb.git
+git clone https://github.com/yaleksenko/datalake-nextjs.git
 ```
 
 2. Install dependencies:
