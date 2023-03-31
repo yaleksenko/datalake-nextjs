@@ -49,9 +49,6 @@ MONGODB_DB="your-mongodb-db"
 NEXT_PUBLIC_BASE_URL="https://your-next-public-base-url.com"
 ```
 
-// If not working with env on a server, write url directly
-const NEXT_PUBLIC_BASE_URL = "https://your-next-public-base-url.com";
-
 4. Start the application:
 
 ```
