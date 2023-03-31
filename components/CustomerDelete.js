@@ -10,7 +10,7 @@ export default function CustomerDelete() {
     const id = useSelector(state => state.app.id);
     const formData = useSelector(state => state.app.formData);
 
-    const { first_name, last_name } = formData;
+    const { first_name, last_name } = formData || {};
     
     useEffect(() => {
         // Get customer data by id and send it to formData
@@ -25,7 +25,7 @@ export default function CustomerDelete() {
         
         const deletedCustomer = await deleteCustomer(id);
         await dispatch(setFormData(deletedCustomer));
-        await dispatch(deleteAction(null));
+        await dispatch(deleteAction(undefined));
         await dispatch(toggleDelete(false));
     }
 

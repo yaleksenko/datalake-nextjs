@@ -3,7 +3,6 @@ import { useSelector, useDispatch } from 'react-redux';
 import { addCustomer } from '.././lib/helper';
 import { setFormData, setErrorMessage, toggleChangeAction } from '.././redux/reducer';
 import { VscAdd } from 'react-icons/vsc';
-import { createAction } from '@reduxjs/toolkit';
 
 export default function CustomerCreate() {
 
