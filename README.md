@@ -23,6 +23,7 @@ https://db.deeplogic.dev/
 - Set activity / inactivity status
 
 ## Requirements
+- Next.js version 13 
 - Node.js version 18 or higher
 - MongoDB version 5 or higher
 
