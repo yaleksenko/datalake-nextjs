@@ -1,4 +1,4 @@
-# DataLake - The Ultimate Customer Management Solution
+# DataLake - A modern web application for managing customers
 
 DataLake is a powerful customer management application built with Next.js, MongoDB, and Tailwind CSS. It provides a modern and convenient way to manage your customer data, all in one place. With the help of an API that fetches data from MongoDB and Redux for state management, DataLake offers a seamless and responsive experience for its users.
 
