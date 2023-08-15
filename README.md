@@ -10,7 +10,7 @@ Join me on this exciting journey to revolutionize customer management with DataL
 
 You can see the demo version of the project by following the link:
 
-https://db.deeplogic.dev/
+https://db.deeplogic.ch/
 
 
 ## Features
